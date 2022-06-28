@@ -1,1 +1,2 @@
 # TestChecking
+check check
